@@ -3,11 +3,6 @@ import { JobPage } from '../page_objects/JobPage';
 
 
 
-//Logging in multiple users handling
- //test.use({ storageState: '../playwright/.auth/recruiter.json' });
-// test.use({ storageState: '../playwright/.auth/candidate.json' });
-
-
 test('test', async ({ page }) => {
 
     //
